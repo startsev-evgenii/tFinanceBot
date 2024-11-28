@@ -36,3 +36,5 @@ if __name__ == "__main__":
         print("Непридвиденная ошибка: ", r)
     finally:
         print("Здесь всё закончилось")
+
+# cjdcjdbcj
